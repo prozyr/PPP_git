@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 feture1commit
+feture2commit
