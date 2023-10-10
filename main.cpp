@@ -1,0 +1,1 @@
+char testArray[] = "Hello Wrold!";
